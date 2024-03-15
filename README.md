@@ -4,3 +4,5 @@ Resources I find useful and likely to be consulted later on which are related to
 https://docs.emmet.io/cheat-sheet/
 ## CSS Styling Reset
 https://meyerweb.com/eric/tools/css/reset/reset.css
+## CSS Selectors
+https://learn.shayhowe.com/advanced-html-css/complex-selectors/
