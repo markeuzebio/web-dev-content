@@ -10,3 +10,5 @@ https://learn.shayhowe.com/advanced-html-css/complex-selectors/
 https://caniuse.com/
 ## About forms
 https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/
+## Free To Use Fonts
+https://fontlibrary.org/en/catalogue
