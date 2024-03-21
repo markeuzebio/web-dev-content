@@ -8,3 +8,5 @@ https://meyerweb.com/eric/tools/css/reset/reset.css
 https://learn.shayhowe.com/advanced-html-css/complex-selectors/
 ## Can I Use
 https://caniuse.com/
+## About forms
+https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/
