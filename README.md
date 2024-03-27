@@ -12,3 +12,5 @@ https://caniuse.com/
 https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/
 ## Free To Use Fonts
 https://fontlibrary.org/en/catalogue
+## Grid Properties
+https://css-tricks.com/snippets/css/complete-guide-grid/#prop-grid-template-areas
